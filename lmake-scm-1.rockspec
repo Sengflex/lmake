@@ -1,5 +1,5 @@
 package = "lmake"
-version = "1.0-1"
+version = "scm-1"
 source = {
    url = "git://github.com/Sengflex/lmake"
 }
